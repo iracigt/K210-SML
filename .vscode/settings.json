@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "bsp.h": "c",
+        "sleep.h": "c",
+        "printf.h": "c",
+        "syscalls.h": "c",
+        "entry.h": "c",
+        "stdio.h": "c",
+        "encoding.h": "c",
+        "clint.h": "c",
+        "platform.h": "c",
+        "fpioa.h": "c",
+        "sysctl.h": "c",
+        "stdint.h": "c",
+        "gpio.h": "c",
+        "pwm.h": "c"
+    }
+}

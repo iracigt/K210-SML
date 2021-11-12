@@ -1,0 +1,15 @@
+{
+    "build": {
+        "srcFilter": [
+            "+<*>",
+            "-<.git/>",
+            "-<gc/>",
+            "-<gen/>",
+            "-<platform/>",
+            "+<platform/baremetal.c>",
+            "-<gdtoa/printf.c>",
+            "-<gdtoa/strtodnrp.c>",
+            "-<gdtoa/test/>"
+        ]
+    }
+}
